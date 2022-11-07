@@ -14,10 +14,14 @@ Id_6=293ebbbc-ebab-4b07-9b7d-9aa0f82ebb9a
 Number=6
 Rows=2
 
+[Effect-blur]
+NoiseStrength=0
+
 [Effect-windowview]
 BorderActivateAll=9
 
 [Plugins]
+blurEnabled=true
 glideEnabled=true
 kwin4_effect_scaleEnabled=false
 slidebackEnabled=true
