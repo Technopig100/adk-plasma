@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=Aritim Dark
-Font=Noto Sans Mono,10,-1,5,50,0,0,0,0,0
+Font=MesloLGMDZ Nerd Font Mono,10,-1,5,50,0,0,0,0,0
 
 [General]
 Name=adklinux
