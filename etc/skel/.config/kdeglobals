@@ -100,6 +100,12 @@ ForegroundVisited=62,91,135
 [General]
 AllowKDEAppsToRememberWindowPositions=false
 ColorSchemeHash=9576ef87a0de1931c50aeb1831060260aa545ee6
+XftHintStyle=hintslight
+XftSubPixel=rgb
+font=Inter Medium,10,-1,5,50,0,0,0,0,0
+menuFont=Inter Medium,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Inter Medium,8,-1,5,50,0,0,0,0,0
+toolBarFont=Inter Medium,10,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=adk-dark
